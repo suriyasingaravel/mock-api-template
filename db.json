@@ -1,0 +1,212 @@
+{
+    "beginner": [
+      {
+        "id": 1,
+        "image": "https://cdn.dribbble.com/users/2931468/screenshots/5720362/media/c676b4da711c7ec96b67e027fd83a1af.gif",
+        "name": "Jumping Jacks",
+        "reps": "20 sec",
+        "description": "Jumping jacks are a full-body exercise that involves jumping to a position with your legs spread wide and your hands touching overhead. It's a great way to warm up your body and get your heart rate up."
+      },
+      {
+        "id": 2,
+        "image": "https://media3.giphy.com/media/HRTRkBuLpUqI6CrJhf/giphy.gif?cid=ecf05e47g2wicxwlolfk5le5bhzk3z9cqvpe91qevtoo6cfa&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+        "name": "Abdominal Crunches",
+        "reps": "15 reps",
+        "description": "Lie on your back with your knees bent and feet flat on the floor. Place your hands behind your head, engage your core, and lift your shoulders off the ground towards your knees. Focus on contracting your abdominal muscles."
+      },
+      {
+        "id": 3,
+        "image": "https://example.com/beginner-russian-twist.gif",
+        "name": "Russian Twist",
+        "reps": "12 reps",
+        "description": "Sit on the floor with your knees bent and feet flat. Lean back slightly while keeping your back straight. Lift your feet off the ground and balance on your tailbone. Hold a weight or your hands together, and twist your torso from side to side, engaging your oblique muscles."
+      },
+      {
+        "id": 4,
+        "image": "https://example.com/beginner-mountain-climber.gif",
+        "name": "Mountain Climber",
+        "reps": "10 reps",
+        "description": "Assume a plank position with your hands placed directly under your shoulders. Alternate bringing your knees toward your chest in a running motion while keeping your core engaged and your hips down. It's an excellent exercise for cardio and core strength."
+      },
+      {
+        "id": 5,
+        "image": "https://example.com/beginner-heel-touch.gif",
+        "name": "Heel Touch",
+        "reps": "12 reps",
+        "description": "Lie on your back with your knees bent and feet flat on the floor. Lift your head and shoulders off the ground, reaching your hands towards your heels, engaging your obliques with each twist. This exercise targets the sides of your waist."
+      },
+      {
+        "id": 6,
+        "image": "https://example.com/beginner-leg-raises.gif",
+        "name": "Leg Raises",
+        "reps": "12 reps",
+        "description": "Lie flat on your back with your legs extended. Keep your hands under your hips for support. Slowly raise your legs upward while keeping them straight, then lower them back down without touching the floor. This targets your lower abs."
+      },
+      {
+        "id": 7,
+        "image": "https://example.com/beginner-plank.gif",
+        "name": "Plank",
+        "reps": "30 sec",
+        "description": "Assume a push-up position with your arms straight and your wrists aligned under your shoulders. Keep your body in a straight line from head to heels. Engage your core muscles and hold the position, focusing on maintaining proper form."
+      },
+    
+      {
+        "id": 8,
+        "image": "https://example.com/beginner-incline-push-ups.gif",
+        "name": "Incline Push-Ups",
+        "reps": "10 reps",
+        "description": "Find a stable surface at waist height. Place your hands on the surface slightly wider than shoulder-width apart. Lower your chest towards the surface by bending your elbows. Push back up to the starting position. This modified push-up helps build upper body strength."
+      },
+      
+      {
+        "id": 10,
+        "image": "https://example.com/beginner-push-ups.gif",
+        "name": "Push-Ups",
+        "reps": "8 reps",
+        "description": "Begin in a plank position with your hands placed directly under your shoulders. Lower your chest towards the ground by bending your elbows, keeping your body in a straight line. Push back up to the starting position. Push-ups target your chest, shoulders, and triceps."
+      },
+    ],                                                                                                                                                                                                                    "intermediate": [
+      {
+        "id": 1,
+        "image": "https://example.com/intermediate-crossover-crunch.gif",
+        "name": "Crossover Crunch",
+        "reps": "15 reps",
+        "description": "Lie on your back with your knees bent and hands behind your head. Lift your shoulders off the ground and twist your torso, bringing your right elbow towards your left knee, then vice versa. This exercise targets your oblique muscles and upper abs."
+      },
+      {
+        "id": 2,
+        "image": "https://example.com/intermediate-side-bridges-left.gif",
+        "name": "Side Bridges Left",
+        "reps": "30 sec",
+        "description": "Lie on your left side, supporting your body with your left elbow and forearm. Lift your hips off the ground, forming a straight line from head to heels. Engage your core to maintain stability. This exercise strengthens your obliques and improves lateral stability."
+      },
+      {
+        "id": 3,
+        "image": "https://example.com/intermediate-side-bridges-right.gif",
+        "name": "Side Bridges Right",
+        "reps": "30 sec",
+        "description": "Lie on your right side, supporting your body with your right elbow and forearm. Lift your hips off the ground, forming a straight line from head to heels. Engage your core to maintain stability. This exercise strengthens your obliques and improves lateral stability."
+      },
+      {
+        "id": 4,
+        "image": "https://example.com/intermediate-bicycle-crunches.gif",
+        "name": "Bicycle Crunches",
+        "reps": "20 reps",
+        "description": "Lie on your back with your hands behind your head. Lift your shoulders off the ground and bring your left elbow towards your right knee while extending your left leg. Alternate sides in a pedaling motion. This exercise targets your obliques and engages your entire core."
+      },
+      {
+        "id": 5,
+        "image": "https://example.com/intermediate-v-up.gif",
+        "name": "V-Up",
+        "reps": "12 reps",
+        "description": "Lie flat on your back with your arms extended overhead and your legs straight. Simultaneously lift your upper body and legs off the ground, forming a V shape. Lower back down with control. This exercise challenges your upper and lower abs."
+      },
+      {
+        "id": 6,
+        "image": "https://example.com/intermediate-wide-arm-push-ups.gif",
+        "name": "Wide Arm Push-Ups",
+        "reps": "8 reps",
+        "description": "Assume a push-up position with your hands placed wider than shoulder-width apart. Lower your chest towards the ground by bending your elbows, then push back up. This variation targets your chest muscles and enhances upper body strength."
+      },
+      {
+        "id": 7,
+        "image": "https://example.com/intermediate-staggered-push-ups.gif",
+        "name": "Staggered Push-Ups",
+        "reps": "8 reps",
+        "description": "Assume a push-up position with one hand placed slightly forward and the other slightly back. Lower your chest towards the ground by bending your elbows, then push back up. This exercise challenges your chest and shoulders asymmetrically."
+      },
+      {
+        "id": 8,
+        "image": "https://example.com/intermediate-squats.gif",
+        "name": "Squats",
+        "reps": "15 reps",
+        "description": "Stand with your feet shoulder-width apart. Lower your body by bending your knees and hips, as if sitting back into an imaginary chair. Keep your back straight and chest up. Push through your heels to return to a standing position. Squats target your quadriceps, hamstrings, and glutes."
+      },
+      {
+        "id": 9,
+        "image": "https://example.com/intermediate-lunges.gif",
+        "name": "Lunges",
+        "reps": "12 reps each leg",
+        "description": "Step forward with one leg and lower your body until both knees are bent at 90-degree angles. Push through the heel of your front foot to return to the starting position. Alternate legs with each repetition. Lunges enhance lower body strength and stability."
+      },
+      {
+        "id": 10,
+        "image": "https://example.com/intermediate-hover-push-ups.gif",
+        "name": "Hover Push-Ups",
+        "reps": "10 reps",
+        "description": "Start in a plank position with your elbows on the ground. Push up onto your hands one at a time, like a push-up. Lower back down onto your elbows while maintaining core stability throughout. This exercise challenges your chest and shoulders in a different way."
+      }
+    ],                                                                                                                                                                                                                       "advanced": [
+      {
+        "id": 1,
+        "image": "https://example.com/advanced-crossover-crunch.gif",
+        "name": "Crossover Crunch",
+        "reps": "40 reps",
+        "description": "Lie on your back with your knees bent and hands behind your head. Lift your shoulders off the ground and twist your torso, bringing your right elbow towards your left knee, then vice versa. This advanced variation targets your obliques and upper abs."
+      },
+      {
+        "id": 2,
+        "image": "https://example.com/advanced-plank.gif",
+        "name": "Plank",
+        "reps": "2 mins",
+        "description": "Assume a push-up position with your arms straight and wrists aligned under your shoulders. Keep your body in a straight line from head to heels, engaging your core. Hold the position for an extended time to challenge your core strength."
+      },
+      {
+        "id": 3,
+        "image": "https://example.com/advanced-burpees.gif",
+        "name": "Burpees",
+        "reps": "30 reps",
+        "description": "Start from a standing position, then squat down and kick your legs back to a plank position. Perform a push-up, then jump your feet back to the squat position. Explosively jump up with arms overhead. This dynamic exercise combines strength and cardio."
+      },
+      {
+        "id": 4,
+        "image": "https://example.com/advanced-push-ups-rotations.gif",
+        "name": "Push-Ups & Rotations",
+        "reps": "24 reps",
+        "description": "Perform a push-up, then rotate to one side, lifting one arm towards the ceiling while stacking your feet. Return to the push-up position and repeat on the other side. This advanced variation works your chest, shoulders, and core."
+      },
+      {
+        "id": 5,
+        "image": "https://example.com/advanced-diamond-push-ups.gif",
+        "name": "Diamond Push-Ups",
+        "reps": "24 reps",
+        "description": "Assume a push-up position with your hands close together, forming a diamond shape with your thumbs and index fingers. Lower your chest towards the ground by bending your elbows, then push back up. This advanced push-up targets your triceps and chest."
+      },
+      {
+        "id": 6,
+        "image": "https://example.com/advanced-spiderman-push-ups.gif",
+        "name": "Spiderman Push-Ups",
+        "reps": "24 reps",
+        "description": "Perform a push-up while bringing your knee towards your elbow on the same side. Alternate sides with each repetition. This advanced variation challenges your chest, shoulders, and core stability."
+      },
+      {
+        "id": 7,
+        "image": "https://example.com/advanced-jumping-squats.gif",
+        "name": "Jumping Squats",
+        "reps": "40 reps",
+        "description": "Begin with a squat, then explosively jump up while swinging your arms down. Land softly and immediately transition into the next squat. This advanced plyometric exercise enhances lower body strength and power."
+      },
+      {
+        "id": 8,
+        "image": "https://example.com/advanced-reverse-push-ups.gif",
+        "name": "Reverse Push-Ups",
+        "reps": "24 reps",
+        "description": "Start in a reverse plank position with your fingers pointing towards your feet. Lower your hips towards the ground by bending your elbows, then push back up. This challenging exercise targets your triceps, shoulders, and core."
+      },
+      {
+        "id": 9,
+        "image": "https://example.com/advanced-inchworms.gif",
+        "name": "Inchworms",
+        "reps": "20 reps",
+        "description": "Begin standing, then bend at the hips and place your hands on the ground. Walk your hands forward into a plank position, then walk your feet towards your hands. Stand up and repeat. This full-body exercise improves mobility and strength."
+      },
+      {
+        "id": 10,
+        "image": "https://example.com/advanced-pike-push-ups.gif",
+        "name": "Pike Push-Ups",
+        "reps": "24 reps",
+        "description": "Assume a downward dog position with your hips raised and hands and feet on the ground. Lower your head towards the ground by bending your elbows, then push back up. This advanced exercise targets your shoulders and upper chest."
+      }
+    ]                  
+
+}
