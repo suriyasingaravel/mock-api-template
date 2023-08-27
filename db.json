@@ -49,7 +49,6 @@
       "reps": "30 sec",
       "description": "Assume a push-up position with your arms straight and your wrists aligned under your shoulders. Keep your body in a straight line from head to heels. Engage your core muscles and hold the position, focusing on maintaining proper form."
     },
-  
     {
       "id": 8,
       "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/06_F_WIP02.gif",
@@ -57,17 +56,15 @@
       "reps": "10 reps",
       "description": "Find a stable surface at waist height. Place your hands on the surface slightly wider than shoulder-width apart. Lower your chest towards the surface by bending your elbows. Push back up to the starting position. This modified push-up helps build upper body strength."
     },
-    
     {
-      "id": 10,
+      "id": 9,
       "image": "https://www.healthier.qld.gov.au/fitness/exercises/push-ups-2/",
       "name": "Push-Ups",
       "reps": "8 reps",
       "description": "Begin in a plank position with your hands placed directly under your shoulders. Lower your chest towards the ground by bending your elbows, keeping your body in a straight line. Push back up to the starting position. Push-ups target your chest, shoulders, and triceps."
-    },
+    }
   ],
-
-     "intermediate": [                                                                                                                                                                                                                    "intermediate": [
+  "intermediate": [
     {
       "id": 1,
       "image": "https://www.healthier.qld.gov.au/fitness/exercises/three-way-crunches-2/",
@@ -138,9 +135,8 @@
       "reps": "10 reps",
       "description": "Start in a plank position with your elbows on the ground. Push up onto your hands one at a time, like a push-up. Lower back down onto your elbows while maintaining core stability throughout. This exercise challenges your chest and shoulders in a different way."
     }
-  ],  
-
-  "advanced": [                                                                                                                                                                                                                     "advanced": [
+  ],
+  "advanced": [
     {
       "id": 1,
       "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/27_M_WIP02.gif",
@@ -165,23 +161,23 @@
     {
       "id": 4,
       "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/14_M_WIP02.gif",
-      "name": "Single leg dead lift",
+      "name": "Single Leg Deadlift",
       "reps": "24 reps",
-      "description": "Lift the right leg, and lower the arms and torso while raising the right leg behind the body.Keep the left knee slightly bent.Raise the torso while lowering the right leg"
+      "description": "Lift the right leg and lower the arms and torso while raising the right leg behind the body. Keep the left knee slightly bent. Raise the torso while lowering the right leg."
     },
     {
       "id": 5,
       "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/07_M_WIP02.gif",
       "name": "Three-way Arms",
       "reps": "24 reps",
-      "description": "Perform a front raise, keeping elbows straight to lift wrists to shoulder height in front of your body.Perform a lateral raise, keeping elbows straight to lift wrists to shoulder height to the side of your body"
+      "description": "Perform a front raise, keeping elbows straight to lift wrists to shoulder height in front of your body. Perform a lateral raise, keeping elbows straight to lift wrists to shoulder height to the side of your body."
     },
     {
       "id": 6,
       "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/10_M_WIP02.gif",
-      "name": "Chair leg-sqauts",
+      "name": "Chair Leg Squats",
       "reps": "24 reps",
-      "description": "Stand on one leg, in front of chair.Slowly squat to sit down onto chair.You can use your other foot to guide you and balance (by tapping on the ground as needed)"
+      "description": "Stand on one leg, in front of a chair. Slowly squat to sit down onto the chair. You can use your other foot to guide you and balance (by tapping on the ground as needed)."
     },
     {
       "id": 7,
@@ -202,14 +198,14 @@
       "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/08_M_WIP02.gif",
       "name": "Rows",
       "reps": "20 reps",
-      "description": "Tip forward at hips, keeping back straight and core muscles tight. Bend at elbows to squeeze shoulder blades backwards, tensing your mid back muscles as you do so.To progress this exercise, aim to complete standing on one leg."
+      "description": "Tip forward at hips, keeping back straight and core muscles tight. Bend at elbows to squeeze shoulder blades backwards, tensing your mid back muscles as you do so. To progress this exercise, aim to complete it standing on one leg."
     },
     {
       "id": 10,
       "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/13_M_WIP02.gif",
-      "name": "Lunge with twist",
+      "name": "Lunge with Twist",
       "reps": "24 reps",
-      "description": "Complete a lunge, bending at both knees to lower downwards. Whilst in the downward lunge and with abdominal muscles tightened, complete a gentle twist to either side."
+      "description": "Complete a lunge, bending at both knees to lower downwards. While in the downward lunge and with abdominal muscles tightened, complete a gentle twist to either side."
     }
   ]
-}                
+}
