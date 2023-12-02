@@ -58,7 +58,7 @@
     },
     {
       "id": 9,
-      "image": "https://www.healthier.qld.gov.au/fitness/exercises/push-ups-2/",
+      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/06_M_WIP02.gif",
       "name": "Push-Ups",
       "reps": "8 reps",
       "description": "Begin in a plank position with your hands placed directly under your shoulders. Lower your chest towards the ground by bending your elbows, keeping your body in a straight line. Push back up to the starting position. Push-ups target your chest, shoulders, and triceps."
@@ -67,7 +67,7 @@
   "intermediate": [
     {
       "id": 1,
-      "image": "https://www.healthier.qld.gov.au/fitness/exercises/three-way-crunches-2/",
+      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/28_M_WIP02.gif",
       "name": "Crossover Crunch",
       "reps": "15 reps",
       "description": "Lie on your back with your knees bent and hands behind your head. Lift your shoulders off the ground and twist your torso, bringing your right elbow towards your left knee, then vice versa. This exercise targets your oblique muscles and upper abs."
@@ -207,5 +207,36 @@
       "reps": "24 reps",
       "description": "Complete a lunge, bending at both knees to lower downwards. While in the downward lunge and with abdominal muscles tightened, complete a gentle twist to either side."
     }
+  ],
+
+  "users":[
+    {
+      "id": 1,
+      "username": "Virat Kohli",
+      "avatar": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202311/virat-kohli-152635825-16x9_0.jpg?VersionId=PwDrJG9xCcRyrrifrE.4wrd_9Elxzf7o&size=690:388",
+      "email": "virat@gmail.com",
+      "password": "virat"
+      },
+      {
+      "id": 2,
+      "name": "M S Dhoni",
+      "avatar": "https://w0.peakpx.com/wallpaper/479/722/HD-wallpaper-ms-dhoni-india-world-cup-cricket.jpg",
+      "email": "dhoni@gmail.com",
+      "password": "dhoni"
+      },
+      {
+      "id": 3,
+      "name": "Sachin Tendulkar",
+      "avatar": "https://static.tnn.in/thumb/msid-91045535,thumbsize-56306,width-1280,height-720,resizemode-75/91045535.jpg",
+      "email": "sachin@gmail.com",
+      "password": "sachin"
+      },
+      {
+        "id": 4,
+        "name": "Suriya",
+        "avatar": "https://prod-oj-files.s3.ap-south-1.amazonaws.com/avatar/6d68cfbcd4.png",
+        "email": "suriya@gmail.com",
+        "password": "sachin"
+        }
   ]
 }
