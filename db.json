@@ -236,7 +236,14 @@
         "username": "Suriya",
         "avatar": "https://prod-oj-files.s3.ap-south-1.amazonaws.com/avatar/6d68cfbcd4.png",
         "email": "suriya@gmail.com",
-        "password": "sachin"
+        "password": "suriya"
+      },
+      {
+        "id": 5,
+        "username": "Gowtham",
+        "avatar": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319935.png",
+        "email": "gowtham@gmail.com",
+        "password": "gowtham"
         }
   ]
 }
