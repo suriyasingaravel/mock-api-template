@@ -219,21 +219,21 @@
       },
       {
       "id": 2,
-      "name": "M S Dhoni",
+      "username": "M S Dhoni",
       "avatar": "https://w0.peakpx.com/wallpaper/479/722/HD-wallpaper-ms-dhoni-india-world-cup-cricket.jpg",
       "email": "dhoni@gmail.com",
       "password": "dhoni"
       },
       {
       "id": 3,
-      "name": "Sachin Tendulkar",
+      "username": "Sachin Tendulkar",
       "avatar": "https://static.tnn.in/thumb/msid-91045535,thumbsize-56306,width-1280,height-720,resizemode-75/91045535.jpg",
       "email": "sachin@gmail.com",
       "password": "sachin"
       },
       {
         "id": 4,
-        "name": "Suriya",
+        "username": "Suriya",
         "avatar": "https://prod-oj-files.s3.ap-south-1.amazonaws.com/avatar/6d68cfbcd4.png",
         "email": "suriya@gmail.com",
         "password": "sachin"
